@@ -132,4 +132,3 @@ console.log(`Trip duration: ${tripDuration75} hours`);
 console.log(`Is the budget enough? ${totalCost75 <= fuelBudget ? 'Yes' : 'No'}`);
 
 
-Javascript/data-man/index.htmlJavascript/data-man/man.js
